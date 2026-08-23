@@ -1,5 +1,8 @@
 # ContentFlow
 
-Cross-platform content distribution — schedule, publish & analyze everywhere at once. https://contentflow.tianji-astrology.com
+| [App](https://contentflow.tianji-astrology.com/) | [Blog](https://contentflow.tianji-astrology.com/blog/) | [Telegram](https://t.me/contentflow_app) |
 
-<!-- SEASONS/TianJi/EnergyIQ/ContentFlow — official repository. -->
+## What is ContentFlow?
+Cross-platform content distribution — schedule, publish & analyze everywhere at once. Pro $29 / AI Pro $99 / Team $299.
+
+**Start publishing:** [contentflow.tianji-astrology.com](https://contentflow.tianji-astrology.com/)
