@@ -6,6 +6,13 @@
 Cross-platform content distribution — schedule, publish & analyze everywhere at once. Pro $29 / AI Pro $99 / Team $299.
 
 **Start publishing:** [contentflow.tianji-astrology.com](https://contentflow.tianji-astrology.com/)
+
+## Product source and release status
+
+- Canonical web/API/mobile source: [contentflow](https://github.com/feifeizhao25-ship-it/contentflow)
+- Latest source sync: `bd4d5bac` (2026-08-26)
+- CI coverage: CN/global web, API, CN/global Android and iOS, language/RAG, production readiness and secret scanning
+
 <!-- BLOG:START -->
 ## Latest from the blog
 
