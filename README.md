@@ -10,7 +10,7 @@ Cross-platform content distribution — schedule, publish & analyze everywhere a
 ## Product source and release status
 
 - Canonical web/API/mobile source: [contentflow](https://github.com/feifeizhao25-ship-it/contentflow)
-- Latest source sync: `bd4d5bac` (2026-08-26)
+- Latest verified canonical source: `92ccd8d` (2026-08-31)
 - CI coverage: CN/global web, API, CN/global Android and iOS, language/RAG, production readiness and secret scanning
 
 <!-- BLOG:START -->
