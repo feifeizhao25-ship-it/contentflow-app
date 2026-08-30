@@ -16,9 +16,9 @@ Cross-platform content distribution — schedule, publish & analyze everywhere a
 <!-- BLOG:START -->
 ## Latest from the blog
 
-- [Content Pillars in 2026: Build a System That Never Runs Dry](https://contentflow.tianji-astrology.com/blog/contentflow-content-pillar-system-2026.html)
-- [The Quarterly Content Review: A 2026 Analytics Retrospective Playbook](https://contentflow.tianji-astrology.com/blog/contentflow-quarterly-content-review-2026.html)
-- [Choosing the Right Content Format for Every Platform in 2026](https://contentflow.tianji-astrology.com/blog/contentflow-content-formats-guide-2026.html)
-- [Content Scheduling 2026: Best Times to Post on Every Platform](https://contentflow.tianji-astrology.com/blog/contentflow-scheduling-best-times-2026.html)
-- [UGC Strategy 2026: Turn Customers Into Your Best Content Engine](https://contentflow.tianji-astrology.com/blog/contentflow-ugc-strategy-2026.html)
+- [Third Party App Stores Guide](https://contentflow.tianji-astrology.com/blog/third-party-app-stores-guide)
+- [Social Media Algorithms 2026](https://contentflow.tianji-astrology.com/blog/social-media-algorithms-2026)
+- [Short Form Video Strategy Guide](https://contentflow.tianji-astrology.com/blog/short-form-video-strategy-guide)
+- [Pwa Vs Native Apps](https://contentflow.tianji-astrology.com/blog/pwa-vs-native-apps)
+- [Pwa Future Mobile Distribution](https://contentflow.tianji-astrology.com/blog/pwa-future-mobile-distribution)
 <!-- BLOG:END -->
