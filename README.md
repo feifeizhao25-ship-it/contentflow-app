@@ -16,9 +16,9 @@ Cross-platform content distribution — schedule, publish & analyze everywhere a
 <!-- BLOG:START -->
 ## Latest from the blog
 
+- [Newsletter Lead Magnet Funnels: From Freebie to Paying Subscriber](https://contentflow.tianji-astrology.com/blog/contentflow-newsletter-lead-magnet-funnel-2026.html)
 - [Third Party App Stores Guide](https://contentflow.tianji-astrology.com/blog/third-party-app-stores-guide)
 - [Social Media Algorithms 2026](https://contentflow.tianji-astrology.com/blog/social-media-algorithms-2026)
 - [Short Form Video Strategy Guide](https://contentflow.tianji-astrology.com/blog/short-form-video-strategy-guide)
 - [Pwa Vs Native Apps](https://contentflow.tianji-astrology.com/blog/pwa-vs-native-apps)
-- [Pwa Future Mobile Distribution](https://contentflow.tianji-astrology.com/blog/pwa-future-mobile-distribution)
 <!-- BLOG:END -->
